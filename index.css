@@ -545,6 +545,9 @@ aside {
 }
 
 @media only screen and (max-width: 946px){
+    .layout{
+        margin-top: 3px;
+    }
     .ul-flex{
         padding-left: 0;
     }
@@ -562,6 +565,9 @@ aside {
     }
 }
 @media only screen and (max-width: 700px){
+    .layout{
+        margin-top: 3px;
+    }
     .container{
         max-width: 1100px;
         width: 100%;
