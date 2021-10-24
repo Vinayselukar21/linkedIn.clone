@@ -379,8 +379,9 @@ aside {
 		justify-content: flex-start;
     }
 		.content {
-			width: 90%;
+			width: 100%;
 			padding: 10px 0;
+            text-align: justify;
         }
 			.title, .updated {
 				color: #a4a5a5;
@@ -399,7 +400,6 @@ aside {
 	
 	
 	.post-content {
-		margin: 0;
 		padding: 10px 20px 5px;
 		color: #181818;
     }
